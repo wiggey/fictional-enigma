@@ -1,0 +1,2 @@
+# fictional-enigma
+Rookie logging
